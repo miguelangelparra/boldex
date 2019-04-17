@@ -1,0 +1,1 @@
+|Fecha|Tipo Operación|Precio Apertura|Precio Cierre|Precio Máximo|Precio Mínimo|Número Operaciones|Títulos Negociados|Monto Efectivo|
