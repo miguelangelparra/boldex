@@ -1,0 +1,9 @@
+
+tabla de volumenes del dia
+
+Elements newsHeadlines = doc.select("td.home:contains(Precio) + td" );
+
+
+    for (Element headline : newsHeadlines) {
+        accionesBajadas[h] = headline.getElementsByClass("numeros-negro-ind").text() ;
+        System.out.println (headline.getElementsByClass("numeros-negro-ind").text());

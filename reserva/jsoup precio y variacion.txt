@@ -1,0 +1,12 @@
+tabla de precio y variacion
+
+
+for (int h=0;h <=accionesBajadas.length -1 ;h++){
+Document doc = Jsoup.connect(conexionesDeAcciones[h]).get();
+Elements newsHeadlines = doc.select("td.home:contains(Precio)" );
+
+
+    for (Element headline : newsHeadlines) {
+        accionesBajadas[h] = headline.getElementsByClass("numeros-negro-ind").text() ;
+        System.out.println (headline.getElementsByClass("numeros-negro-ind").text());
+    }

@@ -1,0 +1,34 @@
+INDICE ACCIONES
+ARRAY
+
+String [] acciones = new String [27];
+
+
+acciones[0]="PRODUCTOS EFE S.A.";
+acciones [1] = "PROAGRO C.A.";
+acciones [2] = "PROTINAL C.A.";
+acciones [3]= "C.A. RON SANTA TERESA";
+acciones [4]= "CERAMICA CARABOBO, SACA";
+acciones [5]= "CORP.GRUPO QUIMICO, C.A.";
+acciones [6]= "CORIMON, C.A.";
+acciones [7]= "DOMINGUEZ & CIA., S.A.";
+acciones [8]= "ENVASES VENEZOLANOS S.A.";
+acciones [9]= "FABRICA NACIONAL DE CEMENTOS, C.A.";
+acciones [10]= "MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.";
+acciones [11]= "SIVENSA, S.A";
+acciones [12]= "C.A. TELARES DE PALO GRANDE";
+acciones [13]= "CORP. INDUSTRIAL DE ENERGIA CA SACA";
+acciones [14]= "C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)";
+acciones [15]= "BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL";
+acciones [16]= "MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)";
+acciones [17]= "MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)";
+acciones [18]= "BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)";
+acciones [19]= "BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.";
+acciones [20]= "BANCO PROVINCIAL, S.A. BCO. UNIVERSAL";
+acciones [21]= "BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL";
+acciones [22]= "BOLSA DE VALORES DE CARACAS, C.A.";
+acciones [23]= "GRUPO ZULIANO, C.A.";
+acciones [24]= "FONDO DE VALORES INMOB.,SACA. CLASE (A)";
+acciones [25]= "FONDO DE VALORES INMOB.,SACA. CLASE (B)";
+acciones [26]= "INVACA,INMUEBLES,VALORES Y CAPITALES,";
+
